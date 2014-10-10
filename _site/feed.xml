@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Behance Dev</title>
+<subtitle type="text">Making Behance Enhanced</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-10-06T09:22:57-04:00</updated>
+<id>/</id>
+<author>
+  <name>Behance Dev</name>
+  <uri>/</uri>
+  <email>sepi@joesepi.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample Ruby]]></title>
+  <link rel="alternate" type="text/html" href="/2014/09/02/sample-ruby/" />
+  <id>/2014/09/02/sample-ruby</id>
+  <published>2014-09-02T00:00:00-04:00</published>
+  <updated>2014-09-02T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;show-some-ruby-would-ya&quot;&gt;Show some Ruby, would ya?&lt;/h2&gt;
+&lt;p&gt;In this example the event handler onLoad is embedded within the tag. OnLoad activates whenever a new page has finished downloading. This alert code tells the browser to create an alert box containing the value of the variable “today”. Thus, it automatically prints out the date and time when the page has finished loading and requires no special action by the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ruby
+require &#39;redcarpet&#39;
+markdown = Redcarpet.new(&quot;Hello World!&quot;)
+puts markdown.to_html
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Raw denim cornhole selvage mumblecore, Bushwick organic trust fund mustache direct trade Intelligentsia stumptown lomo fanny pack. 90’s post-ironic banjo sriracha tofu +1. Banksy pop-up Thundercats, fixie readymade meh bespoke biodiesel art party stumptown polaroid try-hard. Pug squid slow-carb fashion axe American Apparel. Bespoke fashion axe ugh leggings fingerstache normcore, asymmetrical 3 wolf moon forage wayfarers trust fund viral Neutra. Helvetica typewriter PBR single-origin coffee, vegan gluten-free before they sold out mixtape heirloom +1 crucifix 3 wolf moon YOLO messenger bag authentic. Wes Anderson lo-fi put a bird on it single-origin coffee, mlkshk photo booth master cleanse banjo flannel cornhole tofu fap organic skateboard.&lt;/p&gt;
+
+&lt;p&gt;Banjo you probably haven’t heard of them selvage hoodie. Viral heirloom cornhole fanny pack. Single-origin coffee viral Blue Bottle irony, Kickstarter raw denim slow-carb heirloom. Cred scenester asymmetrical direct trade Cosby sweater Wes Anderson, Pinterest raw denim Tonx craft beer. Sartorial gentrify selvage chambray authentic High Life pour-over, asymmetrical messenger bag next level squid aesthetic Odd Future stumptown. Vice Pitchfork cardigan YOLO, kitsch trust fund craft beer. High Life Pinterest actually, Helvetica 3 wolf moon pickled seitan irony tote bag.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2014/09/02/sample-ruby/&quot;&gt;Sample Ruby&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample JavaScript]]></title>
+  <link rel="alternate" type="text/html" href="/2014/09/01/sample-javascript/" />
+  <id>/2014/09/01/sample-javasript</id>
+  <published>2014-09-01T00:00:00-04:00</published>
+  <updated>2014-09-01T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;show-the-date-and-time-when-the-page-loads&quot;&gt;Show the date and time when the page loads&lt;/h2&gt;
+&lt;p&gt;In this example the event handler onLoad is embedded within the tag. OnLoad activates whenever a new page has finished downloading. This alert code tells the browser to create an alert box containing the value of the variable “today”. Thus, it automatically prints out the date and time when the page has finished loading and requires no special action by the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;javascript
+&amp;lt;SCRIPT LANGUAGE = &quot;Javascript&quot;&amp;gt;
+var today= new Date()
+&amp;lt;/SCRIPT&amp;gt;
+....
+&amp;lt;BODY onload=alert(today)&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2014/09/01/sample-javascript/&quot;&gt;Sample JavaScript&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 01, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Introducing Lemon]]></title>
+  <link rel="alternate" type="text/html" href="/2012/11/21/introducing-lemon/" />
+  <id>/2012/11/21/introducing-lemon</id>
+  <published>2012-11-21T00:00:00-05:00</published>
+  <updated>2012-11-21T00:00:00-05:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p style=&quot;background-color:#FFFBCC; padding:5px;&quot;&gt;
+  &lt;code&gt;Here is a little note I sent to a couple of friends. Upon reflection, I thought it could make for a nice little album review and endorsement. So I am sharing it with you too.&lt;/code&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Hey Guys,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_.jpeg&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2012/11/51FKHHRSM1L._SL500_AA300_-150x150.jpeg&quot; alt=&quot;&quot; title=&quot;Cheer Accident - Introducing Lemon&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignright size-thumbnail wp-image-135&quot; /&gt;&lt;/a&gt;I was listening to a band this morning and thought of you. The band is called Cheer Accident. They are stalwarts on the Chicago scene and are old friends of mine. I suspect you would enjoy hearing them.&lt;/p&gt;
+
+&lt;p&gt;I was listening to their album &lt;em&gt;Introducing Lemon&lt;/em&gt; this morning. The first track is 22 minutes long and instrumental. Most of their songs are instrumental. It takes about 12 minutes to really get to what makes Cheer Accident great, but when you get there, it is really awesome. The first 12 minutes are good too, but their true goodness comes about half way into this long song. What starts out as interesting, complex and intriguing goes dark and even more interesting, complex and intriguing.&lt;/p&gt;
+
+&lt;p&gt;I hope you guys look up this album on [&lt;em&gt;insert favorite online music service here&lt;/em&gt;] and check out that first song. Let it play into the second song and you get even more of a glimpse into the amazing depth of Cheer Accident.&lt;/p&gt;
+
+&lt;p&gt;I once turned on the tv and saw them playing on a public access station in front of a green screen; they were all wearing the same color clothes as the green screen as well. Strange imagery gave great visuals to their odd music. It was fantastic.&lt;/p&gt;
+
+&lt;p&gt;Anyway…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Joe&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2012/11/21/introducing-lemon/&quot;&gt;Introducing Lemon&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on November 21, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Persisting Changes]]></title>
+  <link rel="alternate" type="text/html" href="/2011/09/15/persisting-changes/" />
+  <id>/2011/09/15/persisting-changes</id>
+  <published>2011-09-15T00:00:00-04:00</published>
+  <updated>2011-09-15T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/09/ruleDiff1.png&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/09/ruleDiff1-300x147.png&quot; alt=&quot;&quot; title=&quot;ruleDiff&quot; width=&quot;300&quot; height=&quot;147&quot; class=&quot;alignright size-medium wp-image-121&quot; /&gt;&lt;/a&gt;I just found this really cool feature of Chrome’s Dev Tools. I was thinking: ‘hey, it would be really cool if when I edited CSS after inspecting an element that the dev tools would highlight the changed declarations. Well, in a roundabout way, the dev tools do highlight your changes and they even keep a history. You just need to know where to look: switch to the Resources pane and locate the CSS file where your edits occurred and you will see a little arrow that signals there is a history of edits on that file. Whabam! There ya go!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://code.google.com/chrome/devtools/docs/elements-styles.html#persist&quot;&gt;Persisting Changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Things have changed in Chrome and this isn’t as easy to find and work with. The issue is &lt;a href=&quot;https://code.google.com/p/chromium/issues/detail?id=140553&quot; target=&quot;_blank&quot;&gt;being tracked&lt;/a&gt; and I expect a better experience in a future release.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2011/09/15/persisting-changes/&quot;&gt;Persisting Changes&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 15, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lion&#8217;s Den]]></title>
+  <link rel="alternate" type="text/html" href="/2011/06/26/lions-den/" />
+  <id>/2011/06/26/lions-den</id>
+  <published>2011-06-26T00:00:00-04:00</published>
+  <updated>2011-06-26T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110626-120725.jpg&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110626-120725.jpg&quot; alt=&quot;20110626-120725.jpg&quot; class=&quot;alignnone size-full&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2011/06/26/lions-den/&quot;&gt;Lion&#8217;s Den&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on June 26, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Normal nite]]></title>
+  <link rel="alternate" type="text/html" href="/2011/06/13/normal-nite/" />
+  <id>/2011/06/13/normal-nite</id>
+  <published>2011-06-13T00:00:00-04:00</published>
+  <updated>2011-06-13T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Just a weird normal nite:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110613-094209.jpg&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2011/06/20110613-094209.jpg&quot; alt=&quot;20110613-094209.jpg&quot; class=&quot;alignnone size-full&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2011/06/13/normal-nite/&quot;&gt;Normal nite&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on June 13, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[TermKit]]></title>
+  <link rel="alternate" type="text/html" href="/2011/05/19/termkit/" />
+  <id>/2011/05/19/termkit</id>
+  <published>2011-05-19T00:00:00-04:00</published>
+  <updated>2011-05-19T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Great use of Node.js, Socket.IO, jQuery and WebKit. &lt;a href=&quot;http://acko.net/blog/on-termkit&quot;&gt;Pretty neat&lt;/a&gt;.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2011/05/19/termkit/&quot;&gt;TermKit&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on May 19, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Fund raiser this weekend]]></title>
+  <link rel="alternate" type="text/html" href="/2011/05/19/fund-raiser-this-weekend/" />
+  <id>/2011/05/19/fund-raiser-this-weekend</id>
+  <published>2011-05-19T00:00:00-04:00</published>
+  <updated>2011-05-19T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;It looks like I might be playing a fund raiser this weekend for a legal defense fund regarding my neighborhood assoc. and the city of Peekskill against some shady developers (building, not web).&lt;/p&gt;
+
+&lt;p&gt;If so, it will probably be a mix of some classic covers and some crowd friendly originals. I am going to try to squeeze in the Bitter Tears song too because it is just too awesome. &lt;/p&gt;
+
+&lt;p&gt;If you want details, message me.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2011/05/19/fund-raiser-this-weekend/&quot;&gt;Fund raiser this weekend&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on May 19, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Faster in quirks mode?]]></title>
+  <link rel="alternate" type="text/html" href="/2011/03/18/faster-in-quirks-mode/" />
+  <id>/2011/03/18/faster-in-quirks-mode</id>
+  <published>2011-03-18T00:00:00-04:00</published>
+  <updated>2011-03-18T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I have been getting the urge to say things lately, so I may be writing more in this space in the near future. And I am going to talk about things other than Rock music, or should I say “in addition to Rock music.” In fact, I am going to start now:&lt;/p&gt;
+
+&lt;p&gt;I just started on a project that began using ExtJS before I arrived. I have been trying to remain unbiased and learn the pros and cons of the Javascript library/framework. So far, I have not been won over. I see lots of people talking about performance and I am noticing that the sites that use ExtJS are often preempted by a little loading graphic. Both are not good signs. But this latest thing I stumbled upon takes my confidence in ExtJS down even more:&lt;/p&gt;
+
+&lt;p&gt;I have found that ExtJS prefers no doctype. This may be the case for 3.3 and earlier version only — 4.0 should be out soon and I think they abandon this recommendation for that release. But for 3.3, I believe it is so, and the reason given is…&lt;/p&gt;
+
+&lt;p&gt;“…[t]he only reason that no DOCTYPE is recommended is that Ext is faster on IE6 and IE7 in quirks mode…” &lt;a href=&quot;http://www.sencha.com/forum/showthread.php?122202-Form-field-height-issue-with-ie6-ie7-and-ie8&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ugh.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2011/03/18/faster-in-quirks-mode/&quot;&gt;Faster in quirks mode?&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on March 18, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Dear Jessica rough mix #5912]]></title>
+  <link rel="alternate" type="text/html" href="/2010/11/11/dear-jessica-rough-mix-5912/" />
+  <id>/2010/11/11/dear-jessica-rough-mix-5912</id>
+  <published>2010-11-11T00:00:00-05:00</published>
+  <updated>2010-11-11T00:00:00-05:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Where have I been for the last 2 years, almost 3 years?&lt;br /&gt;
+That is not the point. Where was I last night at about 5pm? That&lt;br /&gt;
+one I will answer: on the train working on mixing Dear Jessica&lt;br /&gt;
+vocals. As it stands now, there are 3 vocal tracks for me, 2 of&lt;br /&gt;
+Thea Lux, and 6, count ‘em 6, of James Olsen. James and Thea both&lt;br /&gt;
+do a great job and I am doing my best to have that come through in&lt;br /&gt;
+a way that doesn’t saturate an already crowded mix. Instead of&lt;br /&gt;
+having my vocals doubled and tripled all up in front with some&lt;br /&gt;
+panning, I decided to focus on one of mine and pan hard the other&lt;br /&gt;
+two but pull them way back for some color rather than a full&lt;br /&gt;
+frontal vocal attack. &lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/param&amp;gt;&amp;lt;/object&amp;gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2010/11/11/dear-jessica-rough-mix-5912/&quot;&gt;Dear Jessica rough mix #5912&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on November 11, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Live on WLUW]]></title>
+  <link rel="alternate" type="text/html" href="/2008/02/08/live-on-wluw/" />
+  <id>/2008/02/08/live-on-wluw</id>
+  <published>2008-02-08T00:00:00-05:00</published>
+  <updated>2008-02-08T00:00:00-05:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So things have been pretty busy round here and I forgot to even post about our appearance on &lt;a href=&quot;http://myspace.com/radioonechicago&quot; title=&quot;Radio One Chicago on WLUW on MySpace&quot; target=&quot;_blank&quot;&gt;RadioOne Chicago&lt;/a&gt; on &lt;a href=&quot;http://wluw.org&quot; title=&quot;WLUW Chicago&quot; target=&quot;_blank&quot;&gt;WLUW&lt;/a&gt;. We had a really great time and it was all broadcast live and was also recorded. The recording came out pretty well and it is a great document of the band with &lt;a href=&quot;http://www.joesepi.com/gallery/v/shows/roydale-showcase/joesepi/reggies30.jpg.html&quot; title=&quot;We love you Faiz!&quot; target=&quot;_blank&quot;&gt;Faiz&lt;/a&gt;, who has now moved on.&lt;/p&gt;
+
+&lt;p&gt;The songs are up on our MySpace page: &lt;a href=&quot;http://myspace.com/joesepi&quot; title=&quot;*joesepi* on WLUW on MySpace&quot; target=&quot;_blank&quot;&gt;myspace/joesepi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2008/02/radioonechicago2sy4.jpg&quot; alt=&quot;RadioOne Chicago&quot; /&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/2008/02/08/live-on-wluw/&quot;&gt;Live on WLUW&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on February 08, 2008.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Newf O&#8217;toes]]></title>
+  <link rel="alternate" type="text/html" href="/2008/01/04/newf-otoes/" />
+  <id>/2008/01/04/newf-otoes</id>
+  <published>2008-01-04T00:00:00-05:00</published>
+  <updated>2008-01-04T00:00:00-05:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/gallery/v/shows/roydale-showcase/&quot; title=&quot;Roydale Showcase Photos&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/gallery/d/5814-4/sandwich.jpg&quot; alt=&quot;Sandwich Lady&quot; style=&quot;border: 1px solid #000000; margin: 0pt 0pt 15px 15px&quot; align=&quot;right&quot; height=&quot;150&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;Check em out:&lt;br /&gt;
+&lt;a href=&quot;http://www.joesepi.com/gallery/v/shows/roydale-showcase/&quot; title=&quot;Roydale Showcase Photos&quot; target=&quot;_blank&quot;&gt;Roydale Showcase Photos&lt;/a&gt;&lt;br /&gt;
+&lt;br clear=&quot;all&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2008/01/04/newf-otoes/&quot;&gt;Newf O&#8217;toes&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on January 04, 2008.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Record Release and Roydale Showcase]]></title>
+  <link rel="alternate" type="text/html" href="/2007/11/07/roydale-showcase/" />
+  <id>/2007/11/07/roydale-showcase</id>
+  <published>2007-11-07T00:00:00-05:00</published>
+  <updated>2007-11-07T00:00:00-05:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Have I not mentioned this yet? So so busy&amp;#8230;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2007/11/roydale-poster_sm.jpg&quot; title=&quot;Roydale Showcase Poster (sm)&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2007/11/roydale-poster_sm.jpg&quot; alt=&quot;Roydale Showcase Poster (sm)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Friday November 9 at &lt;a href=&quot;http://reggieslive.com/today.shtml?date=2007-11-09#855877&quot; title=&quot;Reggie&#39;s Live&quot; target=&quot;_blank&quot;&gt;Reggie&amp;#8217;s Live&lt;/a&gt; (2105 So. State St.) in beautiful Chicago IL.&lt;/p&gt;
+&lt;p&gt;A showcase for &lt;a href=&quot;http://www.roydale.com&quot; title=&quot;Great Great Label&quot; target=&quot;_blank&quot;&gt;The Roydale Recording Company&lt;/a&gt;.&lt;br /&gt;
+This is also our Record Release show for our new product: PILOT EP.&lt;br /&gt;
+Also releasing an album this night: Terrible Terrible Sandwich Joint&lt;/p&gt;
+&lt;p&gt;Show starts at 8pm (18+) and is only around $6 for 4 bands (do the&lt;br /&gt;
+math for calculated savings). I think we should be on at 9pm. All&lt;br /&gt;
+bands on this bill are really, really great.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.thebittertears.com&quot; title=&quot;The Bitter Tears&quot; target=&quot;_blank&quot;&gt;The Bitter Tears&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.letsgetoutofthisterriblesandwichshop.com&quot; title=&quot;The Best Worst Sandwich Shop&quot; target=&quot;_blank&quot;&gt;Let&amp;#8217;s Get Out Of This Terrible Sandwich Shop&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://myspace.com/joesepi&quot; title=&quot;The *joesepi* MySpace Page&quot; target=&quot;_blank&quot;&gt;*joesepi*&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.rockband22.com&quot; title=&quot;Super Rockband Twenty Two&quot; target=&quot;_blank&quot;&gt;.22&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information is available at:&lt;br /&gt;
+&lt;a href=&quot;http://reggieslive.com/today.shtml?date=2007-11-09#855877&quot; target=&quot;_blank&quot;&gt;http://reggieslive.com/today&lt;wbr /&gt;.shtml?date=2007-11-09#855877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the words of 1BRW, Music is fun and exciting, hope to see you there.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/11/07/roydale-showcase/&quot;&gt;Record Release and Roydale Showcase&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on November 07, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[*joesepi* on iTunes &#8212; PILOT EP]]></title>
+  <link rel="alternate" type="text/html" href="/2007/10/19/joesepi-on-itunes-pilot-ep/" />
+  <id>/2007/10/19/joesepi-on-itunes-pilot-ep</id>
+  <published>2007-10-19T00:00:00-04:00</published>
+  <updated>2007-10-19T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p style=&quot;text-align:center&quot;&gt;[&lt;a href=&quot;http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=265796082&amp;amp;s=143441&quot;&gt;LINK TO iTUNES&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.joesepi.com/blog/wp-content/uploads/2007/10/joesepi-on-itunes.jpg&quot; title=&quot;*joesepi* on iTunes — PILOT EP&quot;&gt;&lt;img src=&quot;http://www.joesepi.com/blog/wp-content/uploads/2007/10/joesepi-on-itunes.jpg&quot; alt=&quot;*joesepi* on iTunes — PILOT EP&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/10/19/joesepi-on-itunes-pilot-ep/&quot;&gt;*joesepi* on iTunes &#8212; PILOT EP&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on October 19, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[!OUCHO! foto]]></title>
+  <link rel="alternate" type="text/html" href="/2007/09/27/oucho-foto/" />
+  <id>/2007/09/27/oucho-foto</id>
+  <published>2007-09-27T00:00:00-04:00</published>
+  <updated>2007-09-27T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.joesepi.com/gallery/d/5244-2/OUCHO+09+-+177.jpg&quot; style=&quot;border: 1px solid #000000; margin: 0pt 0pt 15px 15px&quot; title=&quot;!OUCHO! 09 -- joesepi&quot; alt=&quot;!OUCHO! 09 -- joesepi&quot; align=&quot;right&quot; height=&quot;150&quot; width=&quot;150&quot; /&gt;Hey kids. !OUCHO! has come and gone. &lt;a href=&quot;http://www.joesepi.com/gallery/v/shows/oucho9/&quot; title=&quot;!OUCHO! photos&quot; target=&quot;_blank&quot;&gt;Photos&lt;/a&gt; prove it happened.&lt;/p&gt;
+
+&lt;p&gt;(and who is that in the background playing &lt;strong style=&quot;text-decoration: underline&quot;&gt;two&lt;/strong&gt; guitars!?)&lt;/p&gt;
+
+&lt;p&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/09/27/oucho-foto/&quot;&gt;!OUCHO! foto&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 27, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[9th Annual !OUCHO! fest &#8211; RockOut CookOut]]></title>
+  <link rel="alternate" type="text/html" href="/2007/09/06/9th-annual-oucho-fest-rockout-cookout/" />
+  <id>/2007/09/06/9th-annual-oucho-fest-rockout-cookout</id>
+  <published>2007-09-06T00:00:00-04:00</published>
+  <updated>2007-09-06T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.pensamplivox.com/oucho&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://pensamplivox.com/oucho/09/oucho-09.jpg&quot; title=&quot;Free Free Free&quot; alt=&quot;Free Free Free&quot; height=&quot;800&quot; width=&quot;493&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;background-color: #cccccc; margin-top: 0px&quot; align=&quot;center&quot;&gt;
+  &lt;strong&gt;More Info&lt;/strong&gt; at &lt;a href=&quot;http://www.pensamplivox.com/oucho&quot; target=&quot;_blank&quot;&gt;Pensamplivox Records&lt;/a&gt;
+&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/09/06/9th-annual-oucho-fest-rockout-cookout/&quot;&gt;9th Annual !OUCHO! fest &#8211; RockOut CookOut&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 06, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Note Show Photos]]></title>
+  <link rel="alternate" type="text/html" href="/2007/09/05/note-show-photos/" />
+  <id>/2007/09/05/note-show-photos</id>
+  <published>2007-09-05T00:00:00-04:00</published>
+  <updated>2007-09-05T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.joesepi.com/gallery/d/4933-5/NoteAug25.jpg&quot; title=&quot;Rock shot&quot; alt=&quot;Rock shot&quot; style=&quot;border: 1px solid #000000; margin: 0pt 0pt 15px 15px&quot; align=&quot;right&quot; height=&quot;150&quot; width=&quot;150&quot; /&gt;Hey Kids. The Note Show photos are up on the site. Thanks to Rana for snapping. I think she dropped her camera at the show and is looking for donations towards a new one. Anyone.. *crickets chirp* ..anyone?&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/09/05/note-show-photos/&quot;&gt;Note Show Photos&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on September 05, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Roydale Records]]></title>
+  <link rel="alternate" type="text/html" href="/2007/08/30/roydale-records/" />
+  <id>/2007/08/30/roydale-records</id>
+  <published>2007-08-30T00:00:00-04:00</published>
+  <updated>2007-08-30T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.roydale.com/images/rdlogo20040628.jpg&quot; title=&quot;ROYDALE&quot; alt=&quot;ROYDALE&quot; style=&quot;margin: 0pt 0pt 15px 15px&quot; align=&quot;right&quot; height=&quot;60&quot; width=&quot;60&quot; /&gt;We are officially a part of the &lt;a href=&quot;http://www.roydale.com&quot; title=&quot;Roydale Records&quot; target=&quot;_blank&quot;&gt;Roydale Recording Family&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And we are in good company:&lt;a href=&quot;http://www.thebittertears.com&quot; title=&quot;The Bitter Tears is one of my favorite bands right now&quot; target=&quot;_blank&quot;&gt;&lt;br /&gt; The Bitter Tears&lt;/a&gt;&lt;a href=&quot;http://www.rockband22.com&quot; title=&quot;22 rule&quot; target=&quot;_blank&quot;&gt;&lt;br /&gt; .22&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.letsgetoutofthisterriblesandwichshop.com&quot; title=&quot;Say it twice&quot; target=&quot;_blank&quot;&gt;Let’s Get Out Of This Terrible Sandwich Shop&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.roydale.com/moco.html&quot; title=&quot;Missouri Comprimise - real sweet&quot; target=&quot;_blank&quot;&gt;Missouri Comprimise&lt;/a&gt; (now defunct, a member is in &lt;a href=&quot;http://myspace.com/avastamountofscientificdata&quot; title=&quot;AVASD&quot; target=&quot;_blank&quot;&gt;A Vast Amount Of Scientific Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;We are very excited about working with Roydale and we are planning a couple of big shows with the Roydale bands: one in Chicago and a couple others around the midwest. Stay tuned.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/08/30/roydale-records/&quot;&gt;Roydale Records&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on August 30, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Show with The Life and Times and The Soft Targets]]></title>
+  <link rel="alternate" type="text/html" href="/2007/08/03/show-with-the-life-and-times-and-the-soft-targets/" />
+  <id>/2007/08/03/show-with-the-life-and-times-and-the-soft-targets</id>
+  <published>2007-08-03T00:00:00-04:00</published>
+  <updated>2007-08-03T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.joesepi.com/images/posters/07-0825_Dummies.jpg&quot; title=&quot;The Note - with The Life and Times and The Soft Targets&quot; alt=&quot;The Note - with The Life and Times and The Soft Targets&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thelifeandtimes.com/&quot; title=&quot;The Life and Times&quot; target=&quot;_blank&quot;&gt;The Life and Times&lt;/a&gt; was born out of &lt;a href=&quot;http://allmusic.com/cg/amg.dll?p=amg&amp;amp;sql=11:fifpxqwhldhe&quot; title=&quot;AMG: Shiner&quot; target=&quot;_blank&quot;&gt;Shiner&lt;/a&gt;. And &lt;a href=&quot;http://www.soft-targets.com/&quot; title=&quot;Soft Targets&quot; target=&quot;_blank&quot;&gt;Soft Targets&lt;/a&gt; has members from &lt;a href=&quot;http://www.allmusic.com/cg/amg.dll?p=amg&amp;amp;sql=11:fpfrxqt5ldte&quot; title=&quot;AMG: Seam&quot; target=&quot;_blank&quot;&gt;Seam&lt;/a&gt;, &lt;a href=&quot;http://www.allmusic.com/cg/amg.dll?p=amg&amp;amp;sql=11:hpfixqt5ldje&quot; title=&quot;AMG: Circus Lupus&quot; target=&quot;_blank&quot;&gt;Circus Lupus&lt;/a&gt; and &lt;a href=&quot;http://www.reglarwiglar.com/ReaganNationalCrashDiet.html&quot; title=&quot;RNCD&quot; target=&quot;_blank&quot;&gt;Reagan National Crash Diet&lt;/a&gt;. It’s gonna be a great show.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/08/03/show-with-the-life-and-times-and-the-soft-targets/&quot;&gt;Show with The Life and Times and The Soft Targets&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on August 03, 2007.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Paralegal Parachute]]></title>
+  <link rel="alternate" type="text/html" href="/2007/05/24/been-awhile/" />
+  <id>/2007/05/24/been-awhile</id>
+  <published>2007-05-24T00:00:00-04:00</published>
+  <updated>2007-05-24T00:00:00-04:00</updated>
+  <author>
+    <name>Behance Dev</name>
+    <uri></uri>
+    <email>sepi@joesepi.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I know it’s been awhile. I have been working on a new song. Tell me what you think:&lt;/p&gt;
+
+&lt;p&gt;League Apparel&lt;br /&gt;
+Paralegal Pair of Shoes&lt;/p&gt;
+
+&lt;p&gt;League Apparel&lt;br /&gt;
+Paralegal Parachute&lt;/p&gt;
+
+&lt;p&gt;It’s a work in progress…&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/2007/05/24/been-awhile/&quot;&gt;Paralegal Parachute&lt;/a&gt; was originally published by Behance Dev at &lt;a href=&quot;&quot;&gt;Behance Dev&lt;/a&gt; on May 24, 2007.&lt;/p&gt;</content>
+</entry>
+
+</feed>
